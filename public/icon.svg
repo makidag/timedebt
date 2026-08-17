@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="TimeDebt">
+  <rect width="512" height="512" fill="#10131a"/>
+  <g fill="none" stroke="#232a36" stroke-width="8">
+    <path d="M64 152h384M64 232h384M64 312h384M64 392h384"/>
+  </g>
+  <path d="M256 96v320" stroke="#313a4a" stroke-width="10"/>
+  <rect x="96" y="184" width="128" height="48" fill="#e7eaf0"/>
+  <rect x="96" y="264" width="88" height="48" fill="#e7eaf0"/>
+  <rect x="288" y="184" width="128" height="48" fill="#e2606a"/>
+  <rect x="288" y="264" width="56" height="48" fill="#5fb08a"/>
+</svg>
